@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Bryant Noel](mailto:bryant.noel@owasp.org)
+* [Zachary Lewis](mailto:zachary.lewis@owasp.org)
+* [Rusty Sides](mailto:rusty.sides@owasp.org)
+* [Timothy Champagne](mailto:timothy.champagne@owasp.org)
